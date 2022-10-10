@@ -4,6 +4,7 @@ Create with the Ocaml language
 
 # How to play
 Go on the terminal project and make the command : make clean 
+
 Then the command : make 
 And take the path of the file : display.html 
 And copy it on web browser 
